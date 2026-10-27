@@ -4,7 +4,7 @@ A visualisation exploring GP patient registrations across England and the IT sup
 
 [📍View interactive map on Tableau Public](https://public.tableau.com/app/profile/alex.r/viz/GPITSystemSuppliers2024/GPITSystemSuppliers2024)
 
-<img width="983" height="621" alt="image" src="https://github.com/user-attachments/assets/6d5ba629-9018-425b-88b0-986ec2907c1e" />
+<a href="https://public.tableau.com/app/profile/alex.r/viz/GPITSystemSuppliers2024/GPITSystemSuppliers2024" target="_blank"><img width="983" height="621" alt="image" src="https://github.com/user-attachments/assets/6d5ba629-9018-425b-88b0-986ec2907c1e" /></a>
 
 ## About
 
